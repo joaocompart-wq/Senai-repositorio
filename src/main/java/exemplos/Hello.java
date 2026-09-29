@@ -1,4 +1,4 @@
-package exercicio_1;
+package exemplos;
 
 public class Hello {
 //psvm - primeiro comando de inicialização

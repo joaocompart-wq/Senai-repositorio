@@ -1,6 +1,4 @@
-package exercicio_1;
-
-import java.security.cert.X509Certificate;
+package exemplos;
 
 public class Number {
     public static void main(String[] args) {
